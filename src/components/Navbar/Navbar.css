@@ -1,0 +1,12 @@
+.nav {
+  background-color: green;
+  color: #fff;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-title {
+  margin: 0 10px;
+}

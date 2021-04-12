@@ -1,0 +1,39 @@
+.detail-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.detail-logo-book {
+  width: 300px;
+  min-height: 464px;
+}
+
+.detail-book-info {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.detail-book-info h1 {
+  margin: 20px 0;
+}
+
+.detail-book-info li {
+  margin-bottom: 12px;
+}
+
+.btn-back {
+  color: #fff;
+  background-color: grey;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 8px;
+  width: fit-content;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.btn-back:hover {
+  background-color: rgb(75, 75, 75);
+}
